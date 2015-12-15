@@ -32,7 +32,7 @@ import elemental.json.JsonArray;
 @Theme("mytheme")
 @Widgetset("com.leandev.downloader.MyAppWidgetset")
 public class MyUI extends UI {
-	
+    // add comments	
 	private VerticalLayout layout ;
 	private Button downloadInvisibleButton ;
 	private Button button ;
